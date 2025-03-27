@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Shreyash Chilip | Tech Enthusiast & Innovator 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Developer;Full-Stack+Engineer;Open-Source+Contributor;Tech+Enthusiast;Innovator" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&center=true&vCenter=true&width=600&lines=Full-Stack+Dev;Tech+Enthusiast;Innovator" alt="Typing SVG">
 </p>
 
 ---
